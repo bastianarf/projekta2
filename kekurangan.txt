@@ -1,0 +1,4 @@
+KEKURANGAN :
+- perbaikan, kurang highlight kalau sudah masuk ke tabel
+- desain blade keseluruhan
+- javascript belum sempurna
